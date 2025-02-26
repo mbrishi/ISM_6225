@@ -7,7 +7,7 @@ namespace ADA_Week3
         static void Main(string[] args)
         {
             Debug.WriteLine("Hello, World!");
-
+            Debug.WriteLine("Git test");
 
             int x;
             x = 3;
